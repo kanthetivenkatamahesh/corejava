@@ -2,7 +2,6 @@ package demo;
 
 public class Demoloops
 {
-
 	public static void main(String[] args)
 	{
 		{
@@ -12,5 +11,6 @@ public class Demoloops
              System.out.println("the value is my daddy is my hero");
              
 			}
-		
-}}}
+		}
+	}
+}	
